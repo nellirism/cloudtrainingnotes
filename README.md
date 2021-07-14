@@ -1,3 +1,4 @@
+
 # cloudtrainingnotes
 
 ## Pillaging Cloud Assets
@@ -68,3 +69,5 @@ Phishing
 - AWS Command Line
     - https://aws.amazon.com/cli
 
+    ![situationalawarenessAWS](https://user-images.githubusercontent.com/71202250/125658632-6f1baa77-427b-4d25-897b-a7f27be1b3fb.JPG)
+    ![GCPsituationAwareness](https://user-images.githubusercontent.com/71202250/125658636-7c1d90cf-f086-4c9e-982b-460aa9535cec.JPG)
